@@ -62,7 +62,7 @@ pie showData title Primary Language Across Original Repos
 
 ---
 
-## Java Project Catalog — *Core Hiring Signal*
+## Java Project Catalog*
 
 Use this section to directly assess Java readiness: DSA fundamentals, a real CRUD backend, and applied
 enterprise-style coursework.
@@ -93,7 +93,7 @@ enterprise-style coursework.
 
 ---
 
-## 🟨 JavaScript / TypeScript Catalog *(Secondary Stack)*
+## 🟨 JavaScript / TypeScript Catalog*
 
 | Project | Description | Size | Last Updated |
 |---|---|---|---|
@@ -111,7 +111,7 @@ enterprise-style coursework.
 
 ---
 
-## 🌐 Web / Frontend (HTML & CSS) Catalog
+## 🌐 Web development Catalog
 
 | Project | Description | Size | Last Updated |
 |---|---|---|---|
