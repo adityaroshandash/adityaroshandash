@@ -1,7 +1,8 @@
 <div align="center">
 
 # 👋 Aditya Roshan Dash
-### Java & Python Developer — Portfolio Dashboard for Hiring Review
+### Welcome to my portfolio
+If you like the work,
 Email me at: adityaroshan1473@gmail.com
 
 [![Profile](https://img.shields.io/badge/GitHub-@adityaroshandash-181717?style=for-the-badge&logo=github)](https://github.com/adityaroshandash)
