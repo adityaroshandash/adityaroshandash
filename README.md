@@ -18,8 +18,7 @@ Email me at: adityaroshan1473@gmail.com
 
 ## 🎯 Quick Hiring Snapshot
 
-**Aditya is being positioned for Java Developer / Python Developer roles.** This README works like a
-one-page hiring dashboard: pitch and evidence first, full catalog for deeper due-diligence below.
+**I am open for Developer roles in Java and Python.**
 
 | | |
 |---|---|
@@ -31,9 +30,7 @@ one-page hiring dashboard: pitch and evidence first, full catalog for deeper due
 | 📁 **Total public repositories** | 44 (37 original, 7 forked/reference) |
 
 > **Reviewer note:** This is a learning-and-building portfolio, not a production SaaS portfolio — several
-> repos are labs, coursework, or practice sets. That is normal and expected for early-career Java/Python
-> candidates, and the DSA + CRUD + automation repos below are the strongest direct signals for those two
-> hiring tracks.
+> repos are labs, coursework, or practice sets. 
 
 ### 🧩 Language Distribution Across Original Projects
 
@@ -65,7 +62,7 @@ pie showData title Primary Language Across Original Repos
 
 ---
 
-## ☕ Java Project Catalog — *Core Hiring Signal*
+## Java Project Catalog — *Core Hiring Signal*
 
 Use this section to directly assess Java readiness: DSA fundamentals, a real CRUD backend, and applied
 enterprise-style coursework.
@@ -77,14 +74,14 @@ enterprise-style coursework.
 | [CP](https://github.com/adityaroshandash/CP) | All the DSA Practice problems | 19 KB | 2025-08-29 |
 | [Java-lab](https://github.com/adityaroshandash/Java-lab) | _No description provided_ | 14 KB | 2023-10-05 |
 
-**What this shows an HR/technical reviewer:**
+**What this shows:**
 - `CRUD-Application-Midpoint-6` → can build a backend service with Create/Read/Update/Delete operations, the most common first Java-developer interview/take-home pattern.
 - `CP` → actively practices Data Structures & Algorithms in Java, relevant for technical screens.
 - `tcs_xplore` → exposure to enterprise-style Java project structure.
 
 ---
 
-## 🐍 Python Project Catalog — *Core Hiring Signal*
+## Python Project Catalog *
 
 | Project | Description | Size | Last Updated |
 |---|---|---|---|
@@ -92,9 +89,7 @@ enterprise-style coursework.
 | [project-Redwine](https://github.com/adityaroshandash/project-Redwine) | _No description provided_ | 192,666 KB | 2024-04-29 |
 | [python-lab](https://github.com/adityaroshandash/python-lab) | _No description provided_ | 39 KB | 2024-04-07 |
 
-**What this shows an HR/technical reviewer:**
-- `mehmaan.ai` → builds automation tooling in Python (guest-invitation generation "at scale"), a good sign for scripting/automation-focused Python roles.
-- `project-Redwine` → by far the largest repo in the profile (~188 MB); worth asking the candidate directly what this project does, since GitHub has no description on file yet.
+
 
 ---
 
@@ -134,7 +129,7 @@ enterprise-style coursework.
 
 | Project | Description | Size | Last Updated |
 |---|---|---|---|
-| [VOIS_AICTE_Oct2025_MajorProject_AdityaRoshanDash](https://github.com/adityaroshandash/VOIS_AICTE_Oct2025_MajorProject_AdityaRoshanDash) | _No description provided_ | 3,560 KB | 2025-10-20 |
+| [VOIS_AICTE_Oct2025_MajorProject_AdityaRoshanDash](https://github.com/adityaroshandash/VOIS_AICTE_Oct2025_MajorProject_AdityaRoshanDash) | _Find trends across shows, visualize each country's contribution to catalog, analyze genres, monitor popularity on netflix platform using power of data analysis and python_ | 3,560 KB | 2025-10-20 |
 | [VOIS_AICTE_Oct2025_AdityaRoshanDash](https://github.com/adityaroshandash/VOIS_AICTE_Oct2025_AdityaRoshanDash) | _No description provided_ | 1,446 KB | 2025-09-30 |
 | [Machine-learning](https://github.com/adityaroshandash/Machine-learning) | Journey of Machine learning | 22 KB | 2024-02-07 |
 
@@ -145,8 +140,8 @@ enterprise-style coursework.
 
 | Project | Description | Size | Last Updated |
 |---|---|---|---|
-| [Android-Development](https://github.com/adityaroshandash/Android-Development) | Learning | 47,703 KB | 2025-04-27 |
-| [ccollections](https://github.com/adityaroshandash/ccollections) | _No description provided_ | 7 KB | 2024-07-19 |
+| [Android-Development](https://github.com/adityaroshandash/Android-Development) | Learning to build an android app | 47,703 KB | 2025-04-27 |
+| [ccollections](https://github.com/adityaroshandash/ccollections) | _Data structures such as linkedlist,stack,queue,deque, map now in C_ | 7 KB | 2024-07-19 |
 
 </details>
 
